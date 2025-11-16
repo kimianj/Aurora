@@ -2,13 +2,13 @@
 Loom Recording: https://www.loom.com/share/9adb045e05f44a88a3b8d5faf91bc03c
 
 
-▶️ For running the project
+▶️ **For running the project**<br/> 
 pip install -r requirements.txt <br/> 
 uvicorn main:app --host 0.0.0.0 --port 8000
 
 
 
-API Endpoints
+**API Endpoints**
 
 | Method | Endpoint            | Body / Params           | Description                             |
 | ------ | ------------------- | ----------------------- | --------------------------------------- |
@@ -18,7 +18,7 @@ API Endpoints
 | `GET`  | `/insights`         | —                       | Dataset insights & anomaly report       |
 
 
-📌 Bonus 1: Design Notes (Alternative Approaches)
+📌 **Bonus 1:** Design Notes (Alternative Approaches)<br/> 
 Before selecting the final architecture, I evaluated several alternatives:
 
 | Approach                                  | Pros                                    | Cons                                  |
@@ -29,7 +29,7 @@ Before selecting the final architecture, I evaluated several alternatives:
 | **Keyword extraction + exact match**      | Very simple                             | Poor recall & reasoning               |
 
 
-🔍 Bonus 2: Data Insights (Automated)
+🔍 **Bonus 2:** Data Insights (Automated)<br/> 
 
 {
   "total_messages": 218,
