@@ -3,7 +3,7 @@ Loom Recording: https://www.loom.com/share/9adb045e05f44a88a3b8d5faf91bc03c
 
 
 ▶️ For running the project
-pip install -r requirements.txt
+pip install -r requirements.txt '\n'
 uvicorn main:app --host 0.0.0.0 --port 8000
 
 
@@ -55,5 +55,5 @@ Possible duplicate users with slight spelling variations
 
 
 
-Author:Kimia Naeiji
+Author: Kimia Naeiji
 
