@@ -18,7 +18,7 @@ API Endpoints
 | `GET`  | `/insights`         | —                       | Dataset insights & anomaly report       |
 
 
-📌 Bonus 1 — Design Notes (Alternative Approaches)
+📌 Bonus 1: Design Notes (Alternative Approaches)
 Before selecting the final architecture, I evaluated several alternatives:
 
 | Approach                                  | Pros                                    | Cons                                  |
@@ -29,7 +29,7 @@ Before selecting the final architecture, I evaluated several alternatives:
 | **Keyword extraction + exact match**      | Very simple                             | Poor recall & reasoning               |
 
 
-🔍 Bonus 2 — Data Insights (Automated)
+🔍 Bonus 2: Data Insights (Automated)
 
 {
   "total_messages": 218,
@@ -55,5 +55,5 @@ Possible duplicate users with slight spelling variations
 
 
 
-Kimia Naeiji
+Author:Kimia Naeiji
 
