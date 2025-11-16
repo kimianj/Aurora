@@ -31,7 +31,6 @@ Before selecting the final architecture, I evaluated several alternatives:
 
 🔍 Bonus 2 — Data Insights (Automated)
 
-Insights are returned via /insights.
 {
   "total_messages": 218,
   "unique_users": 42,
@@ -46,6 +45,7 @@ Insights are returned via /insights.
     "1 future timestamp detected"
   ]
 }
+
 
 
 These were observed in the dataset:
